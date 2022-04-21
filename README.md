@@ -8,9 +8,7 @@
 > graduando em analise e desenvolvimento de sistemas;
 > louca por seguranda da informação e querendo estudar tudo ao mesmo tempo;
 
-< ‍21 anos
-< vila velha, es
-< ela/dela
+< ‍21 anos | ela/dela | vila velha - es
 
 ```
 
